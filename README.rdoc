@@ -1,7 +1,0 @@
-== Bill Splitter: A Bill-Splitting App
-
-This app is built with Ruby, Rails, JavaScript/jQuery, and Twitter Bootstrap. It helps you to track and split your expenses between your friends.
-
-You can access the hosted version of this app on heroku with the below mentioned URL:
-
-http://managexpenses.herokuapp.com 
